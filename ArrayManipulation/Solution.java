@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Solution {
     static BigInteger [] arr;
-    static BigInteger a = new BigInteger("100");
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
