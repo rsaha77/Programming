@@ -1,0 +1,1 @@
+The query result is the number of nodes in the subtree of node u containing c
